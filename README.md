@@ -1,4 +1,5 @@
 Low-Cost 4-Way Vehicle Indicator System
+Video Link https://www.youtube.com/embed/pWkoIgeq2tA
 A complete, DIY vehicle indicator system built for under Ksh 1,200. Designed for affordability, safety, and easy integration.
 
 Overview
