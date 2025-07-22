@@ -1,5 +1,7 @@
 Low-Cost 4-Way Vehicle Indicator System
+
 Video Link https://www.youtube.com/embed/pWkoIgeq2tA
+
 A complete, DIY vehicle indicator system built for under Ksh 1,200. Designed for affordability, safety, and easy integration.
 
 Overview
@@ -13,6 +15,7 @@ Compatible with any 12V vehicle electrical system
 Can be upgraded with relays or microcontrollers for automation
 
 Tested and proven functional in real-world vehicle setup
+
 
 
 Key Features
@@ -32,11 +35,13 @@ Compact and easy to install
 Total cost: Ksh 1,200 or less
 
 
+
 Advantages
 
-Cost-effective: Significantly cheaper than commercial indicator systems
+1. Cost-effective: Significantly cheaper than commercial indicator systems
 
-Simple design: Easy to understand, build, and troubleshoot without advanced tools
+2. Simple design: Easy to understand, build, and troubleshoot without advanced tools
+3. 
 
 
 Bill of Materials (BOM)
@@ -55,9 +60,11 @@ Bill of Materials (BOM)
 
 
 
+
 Wiring Diagram / Schematic
 
 📌 Diagram coming soon...
+
 
 
 Basic Logic:
@@ -69,6 +76,7 @@ Switch connects 12V battery to the indicator
 Arduino NodeMCU ESP8266 enables blinking (automatic on/off at interval)
 
 Ground connections wired appropriately to chassis or negative terminal
+
 
 
 Installation Guide
@@ -84,9 +92,11 @@ TestPower the system and test each direction individually (left, right).
 ⚠️ Ensure wiring is insulated and safe to prevent shorts or fire hazards.
 
 
+
 Demo
 
 Include a short video or GIF showing the indicators blinking on a test setup or vehicle.
+
 
 
 Future Improvements
